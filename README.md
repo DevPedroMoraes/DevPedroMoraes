@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-moraes-6bb928224/)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedropk99&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevPedroMoraes&show_icons=true&theme=radical)
 
 ## Tecnologias que eu uso no meu dia
 <div style="display: inline_block"><br></br>
